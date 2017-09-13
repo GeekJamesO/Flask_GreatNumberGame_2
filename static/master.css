@@ -1,0 +1,32 @@
+body {
+    padding: 10% 10%;
+}
+h4  {
+        margin-left: 150px;
+}
+.guessBox {
+    min-width:  130px;
+    min-height: 50px;
+    padding:40px 10px;
+    display: inline-block;
+    vertical-align: center;
+    text-align: center;
+     margin-left: 105px;
+}
+.red {
+    background-color:red;
+    color: white;
+}
+.green {
+    background-color:green;
+    color: white;
+}
+input {
+    display: block;
+    margin: 10px 20%;
+    min-width: 30%;
+}
+button {
+    display: block;
+    margin: 10px 30%;
+}
